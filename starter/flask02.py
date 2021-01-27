@@ -1,7 +1,8 @@
+@app.route('/about')
 def about():
 
     about_text = """
-    This is Mikayla's Git Project.
+    Fill in some info about the project here.
     """
     return about_text
     
