@@ -2,7 +2,7 @@
 def about():
 
     about_text = """
-    Fill in some info about the project here.
+    Mikayla's Git Project.
     """
     return about_text
     
